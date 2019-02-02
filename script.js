@@ -1,4 +1,3 @@
-console.log("I am linked to the html file!");
 
 
 
@@ -12,6 +11,7 @@ console.log("I am linked to the html file!");
 
 
 
+var html = "Here is some text."
 
 
 // Set the inner HTML contents of the #game div to our html string
